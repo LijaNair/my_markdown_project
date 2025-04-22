@@ -7,7 +7,7 @@ This repository contains a **sample API documentation project** focused on:
 - A **Weather API** using the **GET** method
 - A **Task API** (hypothetical) using the **POST** method
 
-The purpose of this project is to demonstrate how to create well-structured API documentation using **DITA** and **Oxygen XML Editor**. The output of this documentation is a professionally formatted **PDF file**, showcasing all essential elements required in a standard API documentation project.
+The purpose of this project is to demonstrate how to create well-structured API documentation using **Markdown** in **VS Code**.
 
 ## About This Documentation
 
@@ -24,4 +24,4 @@ The documentation includes the following key sections:
 - **Response Body** – Sample responses returned by the API.
 - **Response Schema and Descriptions** – Detailed structure and explanation of each field in the response.
 
-This repository can serve as a **template or reference** for developers, technical writers, and documentation teams looking to build API documentation projects using DITA and publish them as PDFs with Oxygen XML.
+This repository can serve as a **template or reference** for developers, technical writers, and documentation teams looking to build API documentation projects using **Markdown** in **VS Code**.
