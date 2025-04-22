@@ -1,7 +1,5 @@
 # API Documentation Written Using Markdown in VS Code
 
-Weather and Task APIs (Generated with Oxygen XML)
-
 ## Introduction
 
 This repository contains a **sample API documentation project** focused on:
